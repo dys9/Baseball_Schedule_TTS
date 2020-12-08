@@ -1,7 +1,7 @@
 import requests
 
 def get_mp3(txt, name):
-    REST_API_KEY = 'c4b218a48a57ecea86208c8b80d06d77'
+    REST_API_KEY = '################################'
     headers = {
         'Content-Type': 'application/xml',
         'Authorization': 'KakaoAK ' + REST_API_KEY,
