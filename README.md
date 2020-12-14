@@ -2,7 +2,7 @@
 run in raspberry pi envirnoment, when inturrupt was occurred it works.
 
 # kakao_tts.py           
-makes String to Wave.file
+makes String to Wave.file using KAKAO REST API
 
 # crawling_pi.py         
 get a information about Samsung Lions in KBO (korea baseball League)
